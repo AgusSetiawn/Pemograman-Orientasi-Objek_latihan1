@@ -41,22 +41,20 @@ Anda dapat mengontrol pesawat dengan memanggil fungsi-fungsi yang tersedia.
 
 <h2>java</h2>
 
-Verify
+![img](dokumentasi1/code.png)
 
-Open In Editor
-Edit
-Copy code
-// Menyalakan mesin pesawat
-nyalakanMesin();
 
-// Menambah kecepatan pesawat
-tambahKecepatan();
+<strong> >> Menyalakan mesin pesawat</strong></br>
+nyalakanMesin();</br>
 
-// Merubah arah pesawat ke utara
-belok("Utara");
+<strong> >> Menambah kecepatan pesawat</br>
+tambahKecepatan();</br>
 
-// Menurunkan ketinggian pesawat
-turun();
+<strong> >> Merubah arah pesawat ke utara</br>
+belok("Utara");</br>
 
-// Menampilkan status pesawat
-status();
+<strong> >>Menurunkan ketinggian pesawat</br>
+turun();</br>
+
+<strong> >> Menampilkan status pesawat</br>
+status();</br>
