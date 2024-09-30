@@ -53,8 +53,12 @@ tambahKecepatan();</br>
 <strong> >> Merubah arah pesawat ke utara</br>
 belok("Utara");</br>
 
-<strong> >>Menurunkan ketinggian pesawat</br>
+<strong> >> Menurunkan ketinggian pesawat</br>
 turun();</br>
 
 <strong> >> Menampilkan status pesawat</br>
-status();</br>
+status();</strong></br>
+
+<h1>Output</h1>
+
+![img](dokumentasi1/screenshot8.png)
