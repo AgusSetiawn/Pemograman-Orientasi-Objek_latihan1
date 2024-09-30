@@ -5,7 +5,7 @@ Program sederhana ini mensimulasikan sebuah pesawat tempur dengan fungsi-fungsi 
 
 <h2>Soal</h2>
 
-![img](dokumentasi1/screenshot8.png)
+![img](dokumentasi1/latihan1_page-0001.jpg)
 
 <h3>Data Pesawat</h3>
 
