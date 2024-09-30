@@ -4,6 +4,7 @@
 Program sederhana ini mensimulasikan sebuah pesawat tempur dengan fungsi-fungsi dasar menggunakan paradigma prosedural/modular dalam bahasa pemrograman Java.
 
 <h2>Soal</h2>
+![](Dokumentasi/soal.png)
 
 <h3>Data Pesawat</h3>
 
